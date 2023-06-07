@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Archivos generados
+dist/
+
+# Logs y archivos temporales
+logs/
+*.log
+*.pid
+*.lock
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# Otros archivos y carpetas personalizadas
+custom-folder/
+custom-file.txt
